@@ -7,7 +7,7 @@ public class VerifySell {
 		
 		String s  = "Ankita Mozar";
 		
-		System.out.println(s);
+		
 		
 		
 		
